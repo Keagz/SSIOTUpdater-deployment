@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="SS_IOT_FWUpdater.exe" version="1.0.0.12" publicKeyToken="ba84e8ed9367e51b" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="SS_IOT_FWUpdater.exe" version="1.0.0.13" publicKeyToken="ba84e8ed9367e51b" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -4472,6 +4472,249 @@
       <dsig:DigestValue>XAr+LlmpMM/rIP5KJrs1BnpO5cMoorVLEez/M452Dck=</dsig:DigestValue>
     </hash>
   </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32.json" size="5068">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>imcrZH1ukDTLIj8sdW//vCNK9ijPCWebdAJ7xHxP9eQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32c2.json" size="4872">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VPH7ug00vLA7FXEIv04yi4GtmL2e1HxIc00FtsrHACU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32c3.json" size="5524">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lkR/e1VVlJHluXjbt1cCdB/KVE8iDBo4uYiTsFyxdtE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32c5.json" size="5416">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nZ8iiRtMZktacsxsA6JdrvdtAxVpZR+C19FIJWF/cRE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32c5beta3.json" size="4892">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>CC+N38RZTA4EQ/MK1JoIHpj73ZWNX7KRCSejMrXLlVI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32c6.json" size="5420">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ervKNxrrVXq2q7CVr5IENK0BerKK1bIXqxSJGgaIHlA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32c61.json" size="5420">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KF4xe8PlKzwZ278NZSmyRFpC9rYWYSqOcpuFJ7C9Dqg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32c6beta.json" size="4904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YFPaTjEIRDGbN6eaOQOne8L8P5bHMiWbDwJUIoJAX+I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32h2.json" size="5420">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>s9cNfIosgTAg+ukHGqVqOx6mg7VAYWy9buwTE8pT1vk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32h2beta1.json" size="4904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>eD4ajLS8f/Wxpi1HIkweEa6tAdPLNCoB9MfhN1PpRBE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32h2beta2.json" size="4904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pO9jo0gF6jiU9ZVdYUx6aSTSyZLm7PZ5oaQr5B5D5lM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32p4.json" size="5272">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fb+D5O38F8Lj3khAAzRlWAd5EtMktqY9ODoyV04v18U=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32s2.json" size="6292">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8d4jL9EpjqhUhb03jh0QgQJnwt0qmhne2lmfU3fNI0I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32s3.json" size="7540">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>a1whdHhjzLKXbVSbeh93LMPK2ivTSi5dbc3cPdqdYjY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp32s3beta2.json" size="5196">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>5WQwYx+1TJWfNQS+LKvtMiEOpHZfr95V8qnTew1xwQM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\esp8266.json" size="12172">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>OztDZh/GYH3RY+m8CLjvuwSsj1cLjh0+LHhspKLzfzE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\1\README.md" size="293">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>bdsyLKOCguH/JgPcm+PYxjJKEMvjDt3bX3b3KmPsOKw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\2\esp32.json" size="17892">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>8+smXElce75C3Yyh2z5DJtReCbkK3T6mzXwgeiHAoFE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\2\esp32c2.json" size="14060">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pJ3HCJAj7btR7n3IJtZ/6Dw8OL2AqvRmrSLXzZeQ8UE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\2\esp32c3.json" size="15320">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>XyMLfAhxBSQku88+upluXMczSQj0itUQ4FV8H17TRhE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\2\esp32c6.json" size="22496">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>VgGV3I7mwNHUVvQA9qaTvzf7Czn0TH4kLvXhmXGdoSo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\2\esp32h2.json" size="14904">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ALunS280IdLky7BOTpaVNk4CJWDnx/6NHcAHuNjpIvo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\2\esp32s2.json" size="16008">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>d/MGdh1SLv2JxKvUHDxv9gGk7WFFQC983291gIae7JM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\2\esp32s3.json" size="23848">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>c647f2x4OTr0DJvy/z0nXOD2Ezdivh8+jwaimZ1azUA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\2\LICENSE-APACHE" size="10846">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dp+Atby0LtCvTk0v104ayb+EPLgMWikhnR7zVEQoprs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\2\LICENSE-MIT" size="1046">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>DDauewWIrS/H6zMkf81Qn7pVvEDEQbgfzP469qz3efU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Python\Lib\site-packages\esptool\targets\stub_flasher\2\README.md" size="271">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Hf/M/A70uuZn7onCT7Rs8Q4YQC6+EVstiMulSi47KGk=</dsig:DigestValue>
+    </hash>
+  </file>
   <file name="Python\Lib\site-packages\esptool\uf2_writer.py" size="2999">
     <hash>
       <dsig:Transforms>
@@ -6002,4 +6245,4 @@
       <dsig:DigestValue>I8x4VBA21jNaifvNYdOnVoa8s1gTOufWSbF+EwGbBEo=</dsig:DigestValue>
     </hash>
   </file>
-<publisherIdentity name="CN=DESKTOP-V0QJI98\goven" issuerKeyHash="64351211c43ebd4ffda8d2ae30051775c2a036a8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>znSeLtlv1VELRqh5Ggb7YswBLYC7+GNIDSnpbtPtjLE=</DigestValue></Reference></SignedInfo><SignatureValue>m3tONDenFd1xwzRt9AFaNGN+Rg0WeCsqR5D1cX93kKkw5rXgCWX+nSqpYN72sLTPJBMc/zZn+rQzPN6wgNGPuI4+B/JxdYm4fz0OVN7C5W1GwUs9OOdcUsku2Rjdpaaa5nnxpbmCZBV08k40lIpMdSpStxVBVXQlPemgcZAeu20=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zGxxWecc9ZvUxySEEiRvciu1sb4QT3LL/DzSD9Q6Bd2SnO+8j5rM1xjf4xs489tF7KU6bwy0wX6K7BiwoLlVaYI+2OmmNrJRNGYQvQDy809OxM1XfrGd+bLOf4E8WGDNPCdARskfNB43W7b943epGcLOvI3ZBp/9+BhsLj36YRU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b18cedd36ee9290d4863f8bb802d01cc62fb061a79a8460b51d56fd92e9e74ce" Description="" Url=""><as:assemblyIdentity name="SS_IOT_FWUpdater.exe" version="1.0.0.12" publicKeyToken="ba84e8ed9367e51b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-V0QJI98\goven</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Sr9SNwe9oVIh1X2i8GEWK+IAp+GUya/otryIKvBbXqs=</DigestValue></Reference></SignedInfo><SignatureValue>C8KYBvigxZqMADMOzGBy6ZIlIfusXPuVZ4FBh+UgWA1E/dRmfpGMRZsPDHN+xEW+W463oxsFxY/lC2jmaneDb2tIBfzA6KqR5OYZrWfczvV0xA84CJ70YIjbnW1W5JHXZ/9bBWfAAYHFU8A8/3zdB5Y8CVJ95zSRalwrXenSvNE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zGxxWecc9ZvUxySEEiRvciu1sb4QT3LL/DzSD9Q6Bd2SnO+8j5rM1xjf4xs489tF7KU6bwy0wX6K7BiwoLlVaYI+2OmmNrJRNGYQvQDy809OxM1XfrGd+bLOf4E8WGDNPCdARskfNB43W7b943epGcLOvI3ZBp/9+BhsLj36YRU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQfL0ydkJ41q5FVV/+tnq4ATANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFYAMABRAEoASQA5ADgAXABnAG8AdgBlAG4wHhcNMjUwNDAyMTYwNzI4WhcNMjYwNDAyMjIwNzI4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFYAMABRAEoASQA5ADgAXABnAG8AdgBlAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMxscVnnHPWb1MckhBIkb3IrtbG+EE9yy/w80g/UOgXdkpzvvI+azNcY3+MbOPPbReylOm8MtMF+iuwYsKC5VWmCPtjppjayUTRmEL0A8vNPTsTNV36xnfmyzn+BPFhgzTwnQEbJHzQeN1u2/eN3qRnCzryN2Qaf/fgYbC49+mEVAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAJsHjR8A140XkN2wAI8UBP27+7gJsx0bEbyAJLqTOflnOrjRTGJnfg4NwpdWmcLhzhy+vVVok2VsQy+gR3FEzo7tlnBHXWRxxQvxbWYrYrgNdYOZzQTuQVhtorOf6BJtyGDDcWN9UbOLyz23jFL21fYofsOKT7m6LuZQUxiZyvJ4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=DESKTOP-V0QJI98\goven" issuerKeyHash="64351211c43ebd4ffda8d2ae30051775c2a036a8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>elqu7C2pCrQya9/fafCH1iDPR2Fhnb2k/2n7G+VOPXk=</DigestValue></Reference></SignedInfo><SignatureValue>VQrsxdSfESv5qejMx8MSfRzooCLj7G1RpBD1evJgdFOouKuB8DKesMVzXTr615Dcsk6k6Ea5b8ixgvL9K4+hB8Q8DEa7ne84HOUXqqE13mvz0Z1hUs+eW5LMBcL4L7n4a9f/LVQK7xYDmtiHByPXVV6TtqwB/fWBTxYyXzkUDoE=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zGxxWecc9ZvUxySEEiRvciu1sb4QT3LL/DzSD9Q6Bd2SnO+8j5rM1xjf4xs489tF7KU6bwy0wX6K7BiwoLlVaYI+2OmmNrJRNGYQvQDy809OxM1XfrGd+bLOf4E8WGDNPCdARskfNB43W7b943epGcLOvI3ZBp/9+BhsLj36YRU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="793d4ee51bfb69ffa4bd9d616147cf20d687f069dfdf6b32b40aa92decae5a7a" Description="" Url=""><as:assemblyIdentity name="SS_IOT_FWUpdater.exe" version="1.0.0.13" publicKeyToken="ba84e8ed9367e51b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-V0QJI98\goven</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>lF49bMq9SnVQF7KbZXjFCT/59/iTNn1NnzKMig0rY7I=</DigestValue></Reference></SignedInfo><SignatureValue>bF2crjqLycMV8j61lgsul/QjQwzqBDA/MDE5QM4IRiFFOUrIW4iUg+A7sj+grgDNREEl8myqaTBuo4ihhKTATeMiOlTSwDCW2pvA9uSUvPFtFB8WpqGcqoaRG4D9DWLUcz9gSjfJaWrzrR1AX0kHH+tZLXf4MLbGiJMW9ZFtLV8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zGxxWecc9ZvUxySEEiRvciu1sb4QT3LL/DzSD9Q6Bd2SnO+8j5rM1xjf4xs489tF7KU6bwy0wX6K7BiwoLlVaYI+2OmmNrJRNGYQvQDy809OxM1XfrGd+bLOf4E8WGDNPCdARskfNB43W7b943epGcLOvI3ZBp/9+BhsLj36YRU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQfL0ydkJ41q5FVV/+tnq4ATANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFYAMABRAEoASQA5ADgAXABnAG8AdgBlAG4wHhcNMjUwNDAyMTYwNzI4WhcNMjYwNDAyMjIwNzI4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFYAMABRAEoASQA5ADgAXABnAG8AdgBlAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMxscVnnHPWb1MckhBIkb3IrtbG+EE9yy/w80g/UOgXdkpzvvI+azNcY3+MbOPPbReylOm8MtMF+iuwYsKC5VWmCPtjppjayUTRmEL0A8vNPTsTNV36xnfmyzn+BPFhgzTwnQEbJHzQeN1u2/eN3qRnCzryN2Qaf/fgYbC49+mEVAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAJsHjR8A140XkN2wAI8UBP27+7gJsx0bEbyAJLqTOflnOrjRTGJnfg4NwpdWmcLhzhy+vVVok2VsQy+gR3FEzo7tlnBHXWRxxQvxbWYrYrgNdYOZzQTuQVhtorOf6BJtyGDDcWN9UbOLyz23jFL21fYofsOKT7m6LuZQUxiZyvJ4=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
